@@ -1,5 +1,4 @@
 <h1> Howdy!! 👋</h1>
-
 <!--
 **chandanreddy10/chandanreddy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
