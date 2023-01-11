@@ -1,4 +1,4 @@
-<h1> Howdy!! 👋</h1>
+<h1> I am an aspiring data scientist with interests and passionate about machine learning and solving problems with data.</h1>
 <!--
 **chandanreddy10/chandanreddy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
