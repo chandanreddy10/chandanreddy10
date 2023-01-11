@@ -1,4 +1,4 @@
-<h2> I am passionate about solving problems with data using the techniques of machine learning,analysis etc. </h2>
+<h2> I am passionate about solving problems with data using the techniques of machine learning, data analysis etc. </h2>
 <!--
 **chandanreddy10/chandanreddy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
