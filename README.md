@@ -1,4 +1,4 @@
-<h2> I am passionate about solving problems with data using the techniques of machine learning, data analysis etc. </h2>
+<h2> I am passionate about solving problems with data using techniques such as machine learning, data analysis etc. I am a quick learner and adaptive to the environment and team. I would always strive hard to make a difference in the team. I believe that data could solve many problems on the societal level and make our lives easier in doing so. </h2>
 <!--
 **chandanreddy10/chandanreddy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
