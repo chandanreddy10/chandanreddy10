@@ -1,4 +1,4 @@
-<h2> Machine Learning enthusiast working in NLP and Computer Vision. I enjoy building smart systems, solving tough problems, and learning new things every day </h2>
+<h2> Machine Learning enthusiast working in NLP and Computer Vision. I enjoy building smart systems, solving tough problems, and learning new things every day. </h2>
 <!--
 **chandanreddy10/chandanreddy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
