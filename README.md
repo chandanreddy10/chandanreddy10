@@ -10,7 +10,7 @@ I am passionate about **Deep Learning**, especially **Multi-Modal AI** (combinin
 - 🌱 I’m currently learning advanced techniques in **vision-language models**.
 - 👯 I’m looking to collaborate on AI research and innovative deep learning applications.
 - 📫 Reach me at: [chandanreddyb279@gmail.com](mailto:chandanreddyb279@gmail.com)
-- ⚡ Fun fact: I love experimenting with AI to create novel, real-world applications.
+- ⚡ I love experimenting with AI to create novel, real-world applications.
 
 ---
 
